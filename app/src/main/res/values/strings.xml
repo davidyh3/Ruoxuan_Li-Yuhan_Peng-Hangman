@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">hangman</string>
+    <string name="title_activity_landscape">Landscape</string>
+</resources>
